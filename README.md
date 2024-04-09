@@ -80,8 +80,4 @@ The API initializes with some dummy student records for testing purposes. You ca
 - Uvicorn: ASGI server for running FastAPI applications.
 
 ---
-![Database](..\cosmocloud\assets\1.png)
-![post](..\cosmocloud\assets\2.png)
-![get](..\cosmocloud\assets\3.png)
-
 
